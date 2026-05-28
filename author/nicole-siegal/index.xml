@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicole Siegal | Jaehyun Choi</title>
+    <link>https://choi-jaehyun.github.io/author/nicole-siegal/</link>
+      <atom:link href="https://choi-jaehyun.github.io/author/nicole-siegal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicole Siegal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://choi-jaehyun.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Nicole Siegal</title>
+      <link>https://choi-jaehyun.github.io/author/nicole-siegal/</link>
+    </image>
+    
+    <item>
+      <title>Migration Responses to State Abortion Policy</title>
+      <link>https://choi-jaehyun.github.io/publication/working-paper-1/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://choi-jaehyun.github.io/publication/working-paper-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contraception Responses to Abortion Bans</title>
+      <link>https://choi-jaehyun.github.io/publication/contraception-responses-abortion-bans/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://choi-jaehyun.github.io/publication/contraception-responses-abortion-bans/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
