@@ -5,20 +5,12 @@
     <link>https://choi-jaehyun.github.io/publication/</link>
       <atom:link href="https://choi-jaehyun.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://choi-jaehyun.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://choi-jaehyun.github.io/publication/</link>
     </image>
-    
-    <item>
-      <title>Peer and Place Effects on Fertility: Evidence from the U.S. Military Duty-Station Assignments</title>
-      <link>https://choi-jaehyun.github.io/publication/job-market_paper/</link>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://choi-jaehyun.github.io/publication/job-market_paper/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Migration Responses to State Abortion Policy</title>
@@ -53,7 +45,7 @@
     </item>
     
     <item>
-      <title>Migration and Fertility Decisions over the Life Course (Federal Statistics Research Data Center Project)</title>
+      <title>Federal Statistics Research Data Center Project: Migration and Fertility Decisions over the Life Course</title>
       <link>https://choi-jaehyun.github.io/publication/migration-fertility-life-course/</link>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://choi-jaehyun.github.io/publication/migration-fertility-life-course/</guid>
@@ -61,7 +53,7 @@
     </item>
     
     <item>
-      <title>The Economic Implications of Supply in the Care Economy (Federal Statistics Research Data Center Project)</title>
+      <title>Federal Statistics Research Data Center Project: The Economic Implications of Supply in the Care Economy</title>
       <link>https://choi-jaehyun.github.io/publication/care-economy-supply-frdc/</link>
       <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://choi-jaehyun.github.io/publication/care-economy-supply-frdc/</guid>
@@ -106,26 +98,6 @@
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://choi-jaehyun.github.io/publication/difference-in-differences-staggered-adoption-book-chapter/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://choi-jaehyun.github.io/publication/published-paper/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://choi-jaehyun.github.io/publication/published-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
