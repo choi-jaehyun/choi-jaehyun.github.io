@@ -5,7 +5,7 @@
     <link>https://choi-jaehyun.github.io/author/seth-freedman/</link>
       <atom:link href="https://choi-jaehyun.github.io/author/seth-freedman/index.xml" rel="self" type="application/rss+xml" />
     <description>Seth Freedman</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 15 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://choi-jaehyun.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Seth Freedman</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Federal Statistics Research Data Center Project: The Economic Implications of Supply in the Care Economy</title>
-      <link>https://choi-jaehyun.github.io/publication/care-economy-supply-frdc/</link>
-      <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://choi-jaehyun.github.io/publication/care-economy-supply-frdc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Difference-in-Differences and Staggered Adoption Design (Book Chapter)</title>
       <link>https://choi-jaehyun.github.io/publication/difference-in-differences-staggered-adoption-book-chapter/</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://choi-jaehyun.github.io/publication/difference-in-differences-staggered-adoption-book-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Economic Implications of Supply in the Care Economy</title>
+      <link>https://choi-jaehyun.github.io/publication/care-economy-supply-frdc/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://choi-jaehyun.github.io/publication/care-economy-supply-frdc/</guid>
       <description></description>
     </item>
     
